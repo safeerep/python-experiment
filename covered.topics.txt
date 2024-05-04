@@ -1,0 +1,14 @@
+1. variables
+2. conditional statements
+3. datastructures(lists, tuples..)
+4. functions
+5. modules
+6. exception handling using try and except
+7. OOPS
+8. global(root) and nonlocal(adjacent outer layer) keywords for scope.
+9. inheritance
+    - multiple
+    - multi level
+10. overloading
+    - method overloading
+    - operator overloading
